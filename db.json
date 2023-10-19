@@ -1,5 +1,11 @@
 {
   "clientes": [
-    
+    {
+      "nombre": "Luis",
+      "email": "luchofurtado5@gmail.com",
+      "telefono": "01160205257",
+      "empresa": "undefined",
+      "id": 1
+    }
   ]
 }
